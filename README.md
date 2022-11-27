@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am an aspiring Full Stack Web Developer, with a specialization in MERN Stack. Additionally.
 <!--
 **kaushalragini/kaushalragini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
