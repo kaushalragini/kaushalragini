@@ -3,7 +3,7 @@
 An optimistic fun loving person who likes to work in an challenging environment. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies
 <!--- 🔭 I’m currently working on React
 **kaushalragini/kaushalragini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
