@@ -1,5 +1,5 @@
 ### Hi there This is Ragini Kaushal
-I am an aspiring Full Stack Web Developer, with a specialization in MERN Stack.
+An optimistic fun loving person who likes to work in an challenging environment. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies
 <!--- 🔭 I’m currently working on React
 **kaushalragini/kaushalragini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
