@@ -6,6 +6,7 @@
 **<h1 align="center">Hi!!, I'm Ragini Kaushal</h1>**
 
 <h3 align="center">A MERN Stack Developer from Noida,India</h3>
+<p> An sanguine person who likes to work in an exigent domain. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in widen and enhancing my current skill and experties. I am proficient of developing websites using React.js & other well-known web development technologies</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalragini&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalragini" /> </p>
 
