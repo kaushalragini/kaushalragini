@@ -1,10 +1,6 @@
 
-
+**<h1 align="center">Hi!!, I'm Ragini Kaushal </h1>**
 ![wallpaperjs](https://user-images.githubusercontent.com/110046267/204457516-9798de33-8fe4-417f-8a56-a719a539e3df.jpeg)
-
-
-**<h1 align="center">Hi!!!, I'm Ragini </h1>**
-
 <h3 align="center">A MERN Stack Developer from Noida,India</h3>
 <p> An sanguine person who likes to work in an exigent domain. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in widen and enhancing my current skill and experties. I am proficient of developing websites using React.js & other well-known web development technologies</p>
 
