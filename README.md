@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalragini" alt="kaushalragini" /></a> </p>
 
-- 🌱 I’m currently learning **React*
+- 🌱 I’m currently learning **React *Redux *Thunk *Cypress
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
