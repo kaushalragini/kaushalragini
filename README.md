@@ -17,7 +17,7 @@
 <a href="https://codepen.io/kaushalragini" target="blank"><img align="center" src="https://www.svgrepo.com/show/332291/codepen.svg" alt="https://codepen.io/kaushalragini" width="3%" style=margin-bottom=5px/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://png.pngtree.com/png-vector/20190406/ourmid/pngtree-html-file-document-icon-png-image_913761.jpg" alt="html5" width="40" height="40"/> 
